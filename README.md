@@ -4,7 +4,7 @@ sistema di navigazione a bordo di Polaris
 
 Nuovo sistema di navigazione composto da :
 
-Dell Latitude E7250, openCPN, (SignalK server non attivo)
+Dell Latitude E7250, openCPN, (SignalK server non attivo) + tablet Oukitel RT1 rugged con Android 11 (installati Remote Desktop Microsoft da Google Play, NKE Display, opencpn)
 
 RaspberryZeroW con IMU 9255, software pypilot (tinycore), AP con SSID pypilot
 
