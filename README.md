@@ -27,7 +27,7 @@ source SEATALK: Wind speed, Wind dir (apparent/true), GPS (Latitude, Longitude, 
 source DAISY: AIS
 
 WINDOWS:
-attivare Remode Desktop (da settings, system)
+attivare Remote Desktop (da settings, system)
 su tablet Android attivare Remote Desktop
 collegarsi al PC
 
